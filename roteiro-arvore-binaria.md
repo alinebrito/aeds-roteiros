@@ -239,7 +239,7 @@ int contarNos(No *raiz) {
 ```c
 int altura(No *raiz) {
     if (raiz == NULL) {
-        return 0;
+        return -1;
     }
     int alturaEsq = altura(raiz->esquerda);
     int alturaDir = altura(raiz->direita);
