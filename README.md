@@ -1,6 +1,6 @@
 # Algoritmos e Estruturas de Dados utilizando C/C++
 
-[Roteiro — Introdução à Linguagem C](roteiro-introducao-c.md)
+[Roteiro — Revisão de Conceitos](roteiro-introducao-c.md)
 
 [Roteiro — Ponteiros, Structs e Alocação Dinâmica](roteiro-ponteiros-structs-alocacao.md)
 
