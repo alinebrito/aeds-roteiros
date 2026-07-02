@@ -1,4 +1,4 @@
-# Algoritmos e Estruturas de Dados utilizando C/C++
+# Algoritmos e Estruturas de Dados
 
 [Roteiro — Revisão de Conceitos](roteiro-introducao-c.md)
 
