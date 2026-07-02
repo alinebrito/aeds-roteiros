@@ -328,4 +328,4 @@ Percurso em ordem (crescente): 20 30 40 50 60 70 80
 
 Versione o projeto em um repositório no GitHub, realizando commits a cada etapa importante da implementação (por exemplo: criação, implementação da inserção, percursos, funcionalidades avançadas etc.).
 
-Submeta, no Sistema Acadêmico, o link do repositório GitHub contendo o histórico de commits.
+Submita a tarefa na [issue #1 aberta](https://github.com/alinebrito/aeds-roteiros/issues/1) neste repositório.
