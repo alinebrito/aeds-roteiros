@@ -6,4 +6,4 @@
 
 [Roteiro — Listas, Pilhas e Filas em C](roteiro-listas-pilhas-filas.md)
 
-[Roteiro — Árvore Binária como TAD em C e C++](roteiro-arvore-binaria.md)
+[Roteiro — Árvore Binária](roteiro-arvore-binaria.md)
