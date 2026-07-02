@@ -1,4 +1,4 @@
-# Roteiro Guiado — Árvore Binária
+# Roteiro Prático - Árvore Binária
 
 ## Instruções
 
